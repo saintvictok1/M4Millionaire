@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">M4Millionaire</string>
+
+    <string name="question1">How many legs does a spider have?</string>
+    <string name="LOSER">Press Continue to go back to the Home Screen.</string>
+    <string name="Winner">You have won the game!! \n
+                        Thank you for playing Who wants to be a Millionaire \n
+                        Don\'t spend it all in one place \n
+                        Don\'t forget to pay your taxes… \n
+                        Press Continue to go to the Home Screen. </string>
+
+
+
+</resources>
